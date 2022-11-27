@@ -4,5 +4,7 @@ Wrong spelling,sorry!
 
 ###Setup
 Just use download python on your computer and use your favorite code editor to run it!
+Remember to install requests first!
+‘’ pip install requests‘’
 
 ###I love GitHub!
