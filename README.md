@@ -2,9 +2,9 @@
 It's a simple python script to grab github repos.
 Wrong spelling,sorry!
 
-###Setup
+### Setup
 Just use download python on your computer and use your favorite code editor to run it!
 Remember to install requests first!
-‘’ pip install requests‘’
+`pip install requests`
 
-###I love GitHub!
+### I love GitHub!
